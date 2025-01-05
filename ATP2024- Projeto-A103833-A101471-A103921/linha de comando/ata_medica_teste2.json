@@ -1,0 +1,793 @@
+[
+    {
+        "abstract": "Resumo Introdução: A perturbação esquizofreniforme manifesta-se com sintomas semelhantes aos da esquizofrenia, mas distingue-se desta pela sua duração mais curta, que varia entre um e seis meses. O objetivo deste estudo foi descrever e analisar as hospitalizações por perturbação esquizofreniforme numa base de dados nacional de internamentos.Métodos: Planeámos um estudo retrospetivo, utilizando uma base de dados de hospitalizações a nível nacional, contendo todos os internamentos registados em hospitais públicos de Portugal Continental entre 2008 e 2015. As hospitalizações com diagnóstico primário de perturbação esquizofreniforme foram selecionadas com base no código de diagnóstico 295.4x da Classificação Internacional de Doenças versão 9, Modificação Clínica (CID-9-CM). Foram obtidos dados relativos à data de nascimento, ao sexo, à zona de residência, aos diagnósticos, à duração do internamento (length of stay), ao estado de alta e às despesas hospitalares. As comorbilidades foram analisadas com recurso à pontuação do índice de Charlson. Foram efetuados testes t para amostras independentes para avaliar diferenças em variáveis contínuas com distribuição normal e testes Mann-Whitney-U quando esta distribuição não foi registada.Resultados: Nos hospitais públicos de Portugal Continental, ocorreu um total de 594 internamentos com o diagnóstico primário de perturbação esquizofreniforme durante o período de oito anos selecionado. A maioria, 72,1% (n = 428), estava associada a doentes do sexo masculino. A idade média de admissão foi de 34,34 anos nos homens e de 40,19 anos nas mulheres. A mediana do length of stay foi de 17,00 dias e a mortalidade intra-hospitalar foi de 0,5% (n = 3). Apenas 6,1% (n = 36) dos episódios de internamento tinham uma ou mais comorbilidades registadas. Foram documentados 41 reinternamentos.Conclusão: As hospitalizações com o diagnóstico principal de perturbação esquizofreniforme ocorrem mais frequentemente em doentes jovens do sexo masculino. Tanto quanto é do conhecimento dos autores, este é o primeiro estudo de âmbito nacional que analisa todos os internamentos por este diagnóstico em Portugal.",
+        "keywords": "Hospitalização, Perturbações Psicóticas",
+        "authors": [
+            {
+                "name": "Inês Teixeira da Cunha",
+                "affiliation": "Faculty of Medicine. Universidade do Porto. Porto."
+            },
+            {
+                "name": "Celeste Silveira",
+                "affiliation": "Psychiatry Service. Unidade Local de Saúde São João. Porto."
+            },
+            {
+                "name": "Alberto Freitas",
+                "affiliation": "CINTESIS@RISE. Department of Community Medicine, Information and Health Decision Sciences (MEDCIDS). Faculty of Medicine. Universidade do Porto. Porto."
+            },
+            {
+                "name": "Manuel Gonçalves Pinho",
+                "affiliation": "CINTESIS@RISE. Department of Clinical Neurosciences and Mental Health. Faculty of Medicine. Universidade do Porto. Porto; Department of Psychiatry and Mental Health. Unidade Local de Saúde Tâmega e Sousa. Penafiel."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.21714",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/21714/15498",
+        "publish_date": "2024-09-06",
+        "title": "Hospitalizações por Perturbação Esquizofreniforme: Uma Análise Clínica e Demográfica de uma Base de Dados Nacional",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/21714"
+    },
+    {
+        "abstract": "Resumo Introdução: Estimar a prevalência da exposição ao fumo ambiental de tabaco (FAT) é uma prioridade de saúde pública, permitindo avaliar a carga de doença atribuível na população e o impacto da lei de proibição de fumar. Realizou-se uma revisão sistemática para analisar como tem sido avaliada a exposição ao FAT; e como tem sido estimada a sua prevalência na população portuguesa, desde a implementação da proibição parcial de fumar em 2008.Métodos: Foi feita uma pesquisa bibliográfica nas bases de dados Web of Science, MEDLINE e Embase até novembro de 2022, aplicando uma estratégia de pesquisa pré-concebida e seguindo as diretrizes PRISMA 2020. A pesquisa não foi restringida por período de estudo, desenho do estudo, tamanho da amostra ou idioma, e foi complementada por uma pesquisa manual da literatura. Foi utilizada a escala de Newcastle-Ottawa modificada para avaliar a qualidade dos estudos.Resultados: Foram incluídos 13 estudos transversais. A prevalência da exposição ao FAT nos três estudos europeus variou entre 8,2% (população adulta exposta em casa em 2010) e 93,3% (população adolescente/adulta exposta em esplanadas de bares/restaurantes em 2016). Três estudos nacionais estimaram a exposição das crianças em casa: variando entre 32,6% em 2010 - 2011 e 14,4% em 2016. De acordo com os estudos mais recentes, 49,8% das mulheres residentes no Porto foram expostas ao FAT durante o terceiro trimestre de gravidez em 2010 - 2011; 32,6% e 38,4% das crianças foram expostas ao FAT em casa, respetivamente em Lisboa e nos Açores.Conclusão: Uma percentagem significativa da população portuguesa, em particular as crianças e as mulheres grávidas, continua exposta ao fumo ambiental do tabaco. É necessária uma política abrangente de proibição de fumar, não só em locais públicos exteriores, mas também em locais interiores privados.",
+        "keywords": "Exposição Ambiental, Portugal, Política Anti-Tabaco, Poluição pelo Fumo do Tabaco/efeitos adversos, Tabagismo/epidemiologia",
+        "authors": [
+            {
+                "name": "Nerea Mourino",
+                "affiliation": "Department of Preventive Medicine and Public Health. Universidade de Santiago de Compostela. Santiago de Compostela; University College of Nursing. Campus de Oza. University of A Coruña. A Coruña. Spain."
+            },
+            {
+                "name": "Sofía Ravara",
+                "affiliation": "Health Science Research Centre (CICS-UBI). Universidade da Beira Interior. Covilhã; Public Health Research Centre (CISP). National School of Public Health (ENSP). Universidade NOVA de Lisboa. Lisbon; Unidade de Cessação Tabágica. Serviço de Medicina Preventiva. Hospital Pêro da Covilhã. Unidade Local de Saúde Cova da Beira. Covilhã."
+            },
+            {
+                "name": "Cristina Candal-Pedreira",
+                "affiliation": "Department of Preventive Medicine and Public Health. Universidade de Santiago de Compostela. Santiago de Compostela."
+            },
+            {
+                "name": "Julia Rey-Brandarizi",
+                "affiliation": "Department of Preventive Medicine and Public Health. Universidade de Santiago de Compostela. Santiago de Compostela."
+            },
+            {
+                "name": "Leonor Varela-Lema",
+                "affiliation": "Department of Preventive Medicine and Public Health. Universidade de Santiago de Compostela. Santiago de Compostela; Consortium for Biomedical Research in Epidemiology and Public health (CIBERESP). Madrid; Health Research Institute of Santiago de Compostela (IDIS). Santiago de Compostela. Spain."
+            },
+            {
+                "name": "Alberto Ruano-Ravina",
+                "affiliation": "Department of Preventive Medicine and Public Health. Universidade de Santiago de Compostela. Santiago de Compostela; Consortium for Biomedical Research in Epidemiology and Public health (CIBERESP). Madrid; Health Research Institute of Santiago de Compostela (IDIS). Santiago de Compostela. Spain."
+            },
+            {
+                "name": "Mónica Pérez-Ríos",
+                "affiliation": "Department of Preventive Medicine and Public Health. Universidade de Santiago de Compostela. Santiago de Compostela; Consortium for Biomedical Research in Epidemiology and Public health (CIBERESP). Madrid; Health Research Institute of Santiago de Compostela (IDIS). Santiago de Compostela. Spain."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.21802",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/21802/15514",
+        "publish_date": "2024-09-20",
+        "title": "Exposição ao Fumo Ambiental do Tabaco em Portugal Após a Implementação da Proibição de Fumar: Uma Revisão Sistemática",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/21802"
+    },
+    {
+        "abstract": "Resumo Os inibidores de checkpoint imunitário e os inibidores de tirosina-quinase constituem o novo standard of care no tratamento de primeira linha do carcinoma renal de células claras metastático. Existe uma preocupação crescente com os eventos adversos imunomediados graves. Um homem de 78 anos com carcinoma renal de células claras metastático tratado com pembrolizumab e axitinib foi admitido no serviço de urgência, 30 dias após o início do tratamento, com miosite rapidamente progressiva. Foi identificada miocardite com disfunção ventricular grave. A biópsia muscular foi compatível com miopatia inflamatória associada aos inibidores de checkpoint imunitário. A abordagem inicial com corticosteroides em alta dose obteve resposta insuficiente. A escalada terapêutica ao terceiro dia com metilprednisolona, imunoglobulina e abatacept associou-se a melhoria clínica. No décimo primeiro dia documentou-se arritmia maligna seguida de paragem cardiorrespiratória. Este é um dos primeiros casos a descrever miocardite e miosite durante o tratamento com pembrolizumab-axitinib. O inibidor de checkpoint imunitário parece ter o papel mais preponderante, mas é possível que o inibidor de tirosina-quinase, ao tentar promover a modulação imunitária, também possa potenciar as toxicidades graves.",
+        "keywords": "Carcinoma de Células Renais/tratamento farmacológico, Inibidores de Checkpoint Imunológico/efeitos adversos, Inibidores de Tirosina-Quinase/efeitos adversos, Miocardite/induzida quimicamente, Miosite/induzida quimicamente",
+        "authors": [
+            {
+                "name": "João Queirós Coelho",
+                "affiliation": "Medical Oncology Service. Hospital de Santo António. Unidade Local de Saúde de Santo António. Porto."
+            },
+            {
+                "name": "Joana Simões",
+                "affiliation": "Medical Oncology Service. Hospital de Santo António. Unidade Local de Saúde de Santo António. Porto."
+            },
+            {
+                "name": "Tomás Fonseca",
+                "affiliation": "Clinical Immunology Unit. Unidade Local de Saúde de Santo António. Porto."
+            },
+            {
+                "name": "Sérgio Xavier Azevedo",
+                "affiliation": "Medical Oncology Service. Hospital de Santo António. Unidade Local de Saúde de Santo António. Porto."
+            },
+            {
+                "name": "António Araújo",
+                "affiliation": "Medical Oncology Service. Hospital de Santo António. Unidade Local de Saúde de Santo António. Porto; Oncology Research Unit. Unit for Multidisciplinary Research in Biomedicine (UMIB). School of Medicine and Biomedical Sciences (ICBAS). Universidade do Porto. Porto."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.21306",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/21306/15535",
+        "publish_date": "2024-10-14",
+        "title": "Caso Fatal de Miocardite e Miosite Imunomediadas Associadas ao Tratamento com Inibidores de Checkpoint Imunitário e de Tirosina-Quinase",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/21306"
+    },
+    {
+        "abstract": "Resumo A síndrome de extravasamento capilar sistémico idiopático é caracterizada por episódios recorrentes de hipovolemia, apresentando-se como um choque distributivo e hipovolémico, pela perda de líquido para o espaço extravascular, sendo a sua fisiopatologia desconhecida. Descrevemos o caso de um rapaz de sete anos, previamente saudável, que iniciou um quadro clínico de sintomatologia inespecífica, com evolução para uma fase de extravasamento de líquidos, com hemoconcentração, hipoproteinemia e edema intermuscular abdominal, progredindo para os membros inferiores, com queixas álgicas – síndrome compartimental. Posteriormente, evoluiu favoravelmente com recuperação espontânea após recrutamento do líquido extravascular, com melhoria clínica e analítica. Os parâmetros inflamatórios permaneceram negativos e não foi isolado nenhum microrganismo. Perante esta evolução característica, com as três fases descritas na literatura, admitimos uma síndrome de extravasamento capilar sistémico que, apesar de rara, pode ser fatal, fazendo diagnóstico diferencial com outras causas de choque, com tratamento urgente, demonstrando a importância do diagnóstico precoce.",
+        "keywords": "Choque, Criança, Síndrome de Vazamento Capilar",
+        "authors": [
+            {
+                "name": "João Vasco",
+                "affiliation": "Serviço de Pediatria. Hospital do Divino Espírito Santo. Ponta Delgada.",
+                "orcid": "https://orcid.org/0009-0009-1784-019X"
+            },
+            {
+                "name": "Francisca Albuquerque",
+                "affiliation": "Serviço de Pediatria. Unidade Local de Saúde do Alentejo Central. Évora."
+            },
+            {
+                "name": "Francisca Costa",
+                "affiliation": "Unidade de Cuidados Intensivos e Especiais Pediátricos. Unidade Local de Saúde Amadora/Sintra. Amadora."
+            },
+            {
+                "name": "Ana Dias Curado",
+                "affiliation": "Unidade de Infeciologia e Imunodeficiências. Serviço de Pediatria. Hospital de Santa Maria. Unidade Local de Saúde de Santa Maria. Lisboa."
+            },
+            {
+                "name": "Carlos Escobar",
+                "affiliation": "Unidade de Cuidados Intensivos e Especiais Pediátricos. Unidade Local de Saúde Amadora/Sintra. Amadora."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.21531",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/21531/15496",
+        "publish_date": "2024-08-23",
+        "title": "Síndrome de Extravasamento Capilar Sistémico Idiopático: Relato de um Caso Pediátrico",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/21531"
+    },
+    {
+        "abstract": "Resumo A ataxia espinocerebelosa tipo 27B (SCA27B) é uma doença hereditária descoberta recentemente, provocada por expansões (GAA)≥250 no gene do fator de crescimento de fibroblastos 14 (FGF14), e vários estudos sugerem ser uma das causas mais comuns de ataxia de transmissão autossómica dominante na população europeia. Apresentamos o caso de um doente português de 62 anos que iniciou um quadro de desequilíbrio da marcha lentamente progressivo, associado a marcha atáxica, disartria, dismetria e disdiadococinesia do membro superior esquerdo, que apresentava um agravamento paroxístico induzido pela atividade física intensa e consumo de álcool. O doente tinha um irmão mais velho diagnosticado com ataxia cerebelosa de início no adulto de causa indeterminada. A pesquisa de expansões patogénicas no gene FGF14 detetou uma expansão intrónica em heterozigotia com penetrância completa (> 360 repetições), confirmando o diagnóstico de SCA27B. Tanto quanto sabemos, apresentamos o primeiro caso reportado de SCA27B na população portuguesa.",
+        "keywords": "Ataxias Espinocerebelosas/diagnóstico, Ataxias Espinocerebelosas/genética, Portugal",
+        "authors": [
+            {
+                "name": "Vítor Mendes Ferreira",
+                "affiliation": "Neurology Department. Hospital de Egas Moniz. Unidade Local de Saúde de Lisboa Ocidental. Lisbon."
+            },
+            {
+                "name": "Marta Magriço",
+                "affiliation": "Neurology Department. Hospital de Egas Moniz. Unidade Local de Saúde de Lisboa Ocidental. Lisbon."
+            },
+            {
+                "name": "Bruna Meira",
+                "affiliation": "Neurology Department. Hospital de Egas Moniz. Unidade Local de Saúde de Lisboa Ocidental. Lisbon."
+            },
+            {
+                "name": "Raquel Barbosa",
+                "affiliation": "Neurology Department. Centre Hospitalier Universitaire Toulouse. Toulouse."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.22232",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/22232/15534",
+        "publish_date": "2024-10-11",
+        "title": "Ataxia Espinocerebelosa Tipo 27B (SCA27B): Uma Ataxia Hereditária em Portugal",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/22232"
+    },
+    {
+        "abstract": "Resumo O aumento contínuo na prevalência da obesidade é um desafio ao nível global, em termos económicos e de saúde pública. Em Portugal, o tratamento da obesidade apresenta problemas acentuados no acesso aos serviços de saúde. Neste contexto, surge a necessidade de implementar e avaliar novos modelos de gestão que ofereçam respostas mais eficazes, como os centros de responsabilidade integrados. Este estudo tem como objetivo principal avaliar o impacto da implementação de um centro de responsabilidade integrado de obesidade no desempenho hospitalar. A pesquisa foi conduzida por meio de um estudo de caso múltiplo, predominantemente descritivo, mas com elementos também explanatórios. A abordagem metodológica é mista, combinando análises quantitativas e qualitativas. São avaliados indicadores de desempenho hospitalar, incluídos na dimensão do acesso, produção, eficiência, qualidade e económico-financeira, antes e após a implementação do novo modelo. Em termos globais a implementação de um centro de responsabilidade integrado de obesidade conduziu a melhorias no desempenho hospitalar nas dimensões avaliadas, sobretudo ao nível do acesso, produção e eficiência. Apesar de promissor, este novo modelo poderá beneficiar de um conjunto de melhorias em termos organizacionais, funcionais e jurídico-legais, como por exemplo no método de concessão de incentivos e no processo de financiamento. Nos casos analisados, este novo modelo de organização demonstrou ser uma solução para incrementar o desempenho hospitalar. Estas unidades podem desempenhar um papel estratégico fundamental no Sistema Nacional de Saúde, contribuindo para o acesso a tratamentos especializados, retenção de profissionais e sustentabilidade financeira.",
+        "keywords": "Acesso aos Serviços de Saúde, Avaliação de Resultados em Cuidados de Saúde, Departamentos Hospitalares/organização e administração, Governança Clínica, Obesidade, Portugal",
+        "authors": [
+            {
+                "name": "Jorge Carvalho",
+                "affiliation": "Unidade Local de Saúde de Santo António. Porto; Escola Nacional de Saúde Pública. Lisboa"
+            },
+            {
+                "name": "Adalberto Campos Fernandes",
+                "affiliation": "Escola Nacional de Saúde Pública. Lisboa."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.22103",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/22103/15497",
+        "publish_date": "2024-08-30",
+        "title": "Avaliação do Efeito da Implementação de um Centro de Responsabilidade Integrado de Obesidade no Desempenho Hospitalar em Portugal",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/22103"
+    },
+    {
+        "abstract": "Resumo Introdução: A pandemia de COVID-19 trouxe desafios aos serviços de saúde. À medida que o número de indivíduos afetados aumenta, é crucial encontrar abordagens preventivas, diagnósticas e terapêuticas. Este estudo tem como objetivo descrever diferentes sequelas de COVID-19 numa população dos Cuidados de Saúde Primários. Métodos: Estudo de coorte retrospetivo de indivíduos adultos diagnosticados com COVID-19 entre março 2020 e abril 2022, excluindo grávidas, menores, residentes em Estrutura Residencial para Pessoas Idosas, internados e óbitos. Colheu-se informação através da plataforma Trace COVID-19®, um questionário pré-estabelecido (que incluiu a versão portuguesa do Instrumento Abreviado de Avaliação da Qualidade de Vida da Organização Mundial da Saúde) e, quando necessário, registos clínicos dos utentes. Foi obtida informação sobre as características sociodemográficas e clínicas no momento de infeção aguda juntamente com sintomas de long COVID. Resultados: Estudaram-se 284 doentes com COVID-19, entre os 19 e os 99 anos. Os cinco sintomas agudos de COVID-19 mais prevalentes foram febre (50,0%), cansaço (48,2%), mialgias (44,7%), tosse seca (37,7%) e odinofagia (36,3%). Os sintomas relacionados ao sistema neurológico (23,2%) e cansaço (22,9%) foram os mais prevalentes na long COVID. Cansaço e artralgia agudos foram associados a todas as situações de long COVID. Associações entre sintomas agudos e sintomas de long COVID foram maiores entre anosmia e capítulo neurológico [OR = 5,07, intervalo de confiança (IC) 95%, 2,49 – 10,36, p < 0,001], cansaço agudo e cansaço prolongado (OR = 4,07, IC 95%, 2,07 – 8,02 p =0,041), fadiga e capítulo músculo/esquelético (OR = 7,55, IC 95%, 3,06 – 18,66, p < 0,001), cansaço e capítulo endócrino/hormonal (OR = 6.54, IC 95%, 2,37 – 18,04, p < 0,001), dispneia e sintomas respiratórios (OR = 5,67 IC 95% 1,92 – 16,74, p = 0,002) e por fim febre e capítulo gastrointestinal (OR = 8,06, IC 95%, 2,55 – 25,47, p < 0,001). Quase todas as dimensões da qualidade de vida foram associadas negativamente ao número de sintomas de long COVID. Conclusão: Um maior número de sintomas agudos, bem como a presença de sintomas específicos de COVID-19, foram associados a sintomatologia ≥ 12 semanas após a infeção. Na população estudada, um aumento no número de sintomas, quer na COVID aguda quer na long COVID, teve um impacto negativo significativo na perceção da qualidade de vida geral. A identificação dessas relações poderá trazer uma nova perspetiva de cuidados pós-COVID.",
+        "keywords": "COVID-19/complicações, Cuidados de Saúde Primários, Síndrome Pós-COVID-19 Aguda",
+        "authors": [
+            {
+                "name": "Andreia M. Oliveira",
+                "affiliation": "Unidade de Saúde Familiar Ria Formosa. Agrupamento de Centro de Saúde Central. Administração Regional de Saúde do Algarve. Faro.",
+                "orcid": "https://orcid.org/0000-0001-8262-3065"
+            },
+            {
+                "name": "Catarina Ferreira Coelho",
+                "affiliation": "Unidade de Saúde Familiar Ria Formosa. Agrupamento de Centro de Saúde Central. Administração Regional de Saúde do Algarve. Faro.",
+                "orcid": "https://orcid.org/0000-0001-6004-3828"
+            },
+            {
+                "name": "Filipa Lourenço",
+                "affiliation": "Unidade de Saúde Familiar Ria Formosa. Agrupamento de Centro de Saúde Central. Administração Regional de Saúde do Algarve. Faro.",
+                "orcid": "https://orcid.org/0000-0001-9403-2895"
+            },
+            {
+                "name": "Inês Campos Pinto",
+                "affiliation": "Unidade de Saúde Familiar Ria Formosa. Agrupamento de Centro de Saúde Central. Administração Regional de Saúde do Algarve. Faro.",
+                "orcid": "https://orcid.org/0000-0002-0733-1334"
+            },
+            {
+                "name": "Joana Atabão",
+                "affiliation": "Unidade de Saúde Familiar Ria Formosa. Agrupamento de Centro de Saúde Central. Administração Regional de Saúde do Algarve. Faro.",
+                "orcid": "https://orcid.org/0000-0002-2179-7018"
+            },
+            {
+                "name": "Raquel Cabrita",
+                "affiliation": "Unidade de Saúde Familiar Ria Formosa. Agrupamento de Centro de Saúde Central. Administração Regional de Saúde do Algarve. Faro.",
+                "orcid": "https://orcid.org/0000-0002-1841-408X"
+            },
+            {
+                "name": "Rita Paraíso",
+                "affiliation": "Unidade de Saúde Familiar Ria Formosa. Agrupamento de Centro de Saúde Central. Administração Regional de Saúde do Algarve. Faro.",
+                "orcid": "https://orcid.org/0000-0002-4993-3317"
+            },
+            {
+                "name": "Edgar Mesquita",
+                "affiliation": "Laboratory for Integrative and Translational Research in Population Health (ITR). EPIUnit. Instituto de Saúde Pública. Universidade do Porto. Porto.",
+                "orcid": "https://orcid.org/0000-0001-9224-5811"
+            },
+            {
+                "name": "Dyna Torrado",
+                "affiliation": "Unidade de Saúde Familiar Ria Formosa. Agrupamento de Centro de Saúde Central. Administração Regional de Saúde do Algarve. Faro.",
+                "orcid": "https://orcid.org/0000-0002-3358-7632"
+            },
+            {
+                "name": "Pilar Marquez",
+                "affiliation": "Unidade de Saúde Familiar Ria Formosa. Agrupamento de Centro de Saúde Central. Administração Regional de Saúde do Algarve. Faro.",
+                "orcid": "https://orcid.org/0000-0003-2723-0829"
+            },
+            {
+                "name": "Vanessa Z. Guerreiro",
+                "affiliation": "Unidade de Saúde Familiar Ria Formosa. Agrupamento de Centro de Saúde Central. Administração Regional de Saúde do Algarve. Faro.",
+                "orcid": "https://orcid.org/0000-0003-4066-9342"
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.19566",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/19566/15239",
+        "publish_date": "2023-08-29",
+        "title": "Sintomas Long COVID em Doentes Não Hospitalizados: Um Estudo Retrospetivo",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/19566"
+    },
+    {
+        "abstract": "Resumo Introdução: O coronavírus tem um impacto negativo sobre os indivíduos afetados tanto a nível físico como mental. A literatura sobre o estado de saúde pós SARS-CoV-2 ainda é escassa, com poucos dados sobre a prevalência de sintomas residuais e a qualidade de vida (QoL) após a infeção. O objetivo deste estudo foi compreender o impacto da infeção SARS-CoV-2 na QoL dos doentes e em sintomas residuais.Métodos: Estudo transversal observacional em doentes admitidos em enfermaria COVID-19 entre março 2020 e março de 2021. Aplicação de um questionário QoL (EQ-5D-5L) com avaliação de toda a amostra, em três pontos temporais e grupos de doentes: admitidos numa unidade de Cuidados Intensivos (UCI) e idosos.Resultados: Foram incluídos 125 participantes. A maioria foi admitida por curso grave de doença (51%), tendo-se registado 22% admissões na UCI, 8% com necessidade de ventilação ventral, 10% com complicações trombóticas e 18% com infeções nosocomiais. Quanto aos sintomas persistentes associados ao COVID-19 fog, os mais frequentes foram fadiga (57%), perdas de memória (52%) e insónia (50%). Em relação à QoL, houve uma diminuição média de 0,08 ± 0,2 no índex e 8,7 ± 19 na Visual Analogue Scale (VAS). A diminuição do índex relacionou-se significativamente com a idade, doença pulmonar obstrutiva crónica, asma e insuficiência cardíaca, e todos os sintomas persistentes. O VAS correlacionou-se significativamente com fadiga, alterações do humor, dificuldades de concentração e perdas de memória. A diminuição da QoL e os sintomas persistentes permaneceram estáveis ao longo dos três pontos no tempo. Não se verificaram diferenças estatisticamente significativas na QoL do grupo de UCI, afetado sobretudo por sintomas persistentes relacionados com alterações do humor e perturbações da atenção. Os idosos apresentaram agravamento da QoL segundo o índex (0,69 ± 0,3 vs 0,8 ± 0,2, valor-p = 0,01).Conclusão: Observou-se uma diminuição na QoL após a infeção por SARS-CoV-2, correlacionando-se com comorbilidades e sintomas persistentes. A ausência de variação da QoL e sintomas persistentes entre pontos temporais sugere efeito a longo prazo.",
+        "keywords": "COVID-19, Fadiga Mental, Medidas de Resultados Relatados pelo Doente, Qualidade de Vida, SARS-CoV-2, Testes de Estado Mental e Demência",
+        "authors": [
+            {
+                "name": "Inês Rego de Figueiredo",
+                "affiliation": "Unidade de Transplantes. Hospital Curry Cabral. Centro Hospitalar Universitário Lisboa Central. Lisboa.",
+                "orcid": "https://orcid.org/0000-0002-6492-7185"
+            },
+            {
+                "name": "Joana Branco Ferrão",
+                "affiliation": "Serviço de Medicina Intensiva. Hospital Professor Doutor Fernando da Fonseca. Amadora.",
+                "orcid": "https://orcid.org/0000-0002-6923-8610"
+            },
+            {
+                "name": "Sara Dias",
+                "affiliation": "Serviço de Medicina 7.2. Hospital Curry Cabral. Centro Hospitalar Universitário Lisboa Central. Lisboa."
+            },
+            {
+                "name": "Diogo Drummond Borges",
+                "affiliation": "Serviço de Medicina 7.2. Hospital Curry Cabral. Centro Hospitalar Universitário Lisboa Central. Lisboa.",
+                "orcid": "https://orcid.org/0000-0002-2594-5524"
+            },
+            {
+                "name": "Jorge Fernandes",
+                "affiliation": "Serviço de Medicina 7.2. Hospital Curry Cabral. Centro Hospitalar Universitário Lisboa Central. Lisboa."
+            },
+            {
+                "name": "Vera Bernardino",
+                "affiliation": "Serviço de Medicina 7.2. Hospital Curry Cabral. Centro Hospitalar Universitário Lisboa Central. Lisboa; NOVA Medical School. Universidade NOVA de Lisboa. Lisboa."
+            },
+            {
+                "name": "Heidi Gruner",
+                "affiliation": "Serviço de Medicina 7.2. Hospital Curry Cabral. Centro Hospitalar Universitário Lisboa Central. Lisboa; NOVA Medical School. Universidade NOVA de Lisboa. Lisboa."
+            },
+            {
+                "name": "António Panarra",
+                "affiliation": "Serviço de Medicina 7.2. Hospital Curry Cabral. Centro Hospitalar Universitário Lisboa Central. Lisboa; NOVA Medical School. Universidade NOVA de Lisboa. Lisboa."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.18784",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/18784/15042",
+        "publish_date": "2023-02-15",
+        "title": "A Prevalência de COVID-19 Fog e Impacto na Qualidade de Vida da Infeção SARS-CoV-2 (QoL-COVID): Um Estudo Transversal",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/18784"
+    },
+    {
+        "abstract": "Resumo Introdução: Nova evidência e dados extrapolados de outros coronavírus sugerem que os sintomas e consequências da COVID-19 podem persistir para além da cura. Os objetivos deste estudo foram: avaliar a persistência de sintomas após infeção por SARS-CoV-2 e o seu impacto no condicionamento ao esforço, atividades da vida diária e qualidade-de-vida; estabelecer se a persistência de sintomas condiciona maior incapacidade; e documentar evolução dos vários domínios, após um programa de exercícios domiciliário.Métodos: Estudo prospetivo, de doentes referenciados à consulta de Medicina Física e de Reabilitação, após infeção por SARS-CoV-2. Foram realizadas avaliações clínicas com questionário de sintomas, o teste 1-Minuto Sentar-e-Levantar (1-MSTS), o questionário EQ-5D e o questionário London Chest Activity Daily Living (LCA-DL), antes e após um programa de exercício domiciliário. Resultados: Setenta e quatro pacientes foram incluídos. A maioria (n = 71) foi hospitalizada (média de 19,7 ± 13,4 dias), 51% necessitaram de cuidados intensivos. Na primeira avaliação, realizada 54 dias após instalação de sintomas, a média de repetições no 1-MSL foi de 18,6. A percentagem de LCA-DL foi superior a 28% em 23% dos pacientes. Alterações no EQ-5D estavam presentes em 44% na mobilidade e 44% para ansiedade/depressão. O EQ-5D VAS médio foi de 66,5 de 100. Cinquenta e um (70%) tinham pelo menos um sintoma persistente (Grupo Sintomático), enquanto 22 (30%) eram assintomáticos (Grupo Assintomático). O Grupo Sintomático teve piores resultados médios no 1-MSL (16,8 vs 22,9; p < 0,001), % pontuação LCA-DL, EQ-D5 (7,8 vs 5,7; p < 0,001) e EQ-D5-VAS. Nenhuma das características de paciente, antecedente clínico, característica da doença ou da hospitalização foi significativamente diferente entre os grupos. Todos os pacientes receberam um programa de exercício domiciliário; 47 pacientes integraram um programa de reabilitação adicional ou tiveram alta clínica, pelo que foram excluídos da segunda avaliação. Vinte e sete pacientes foram submetidos a uma segunda avaliação. Na análise emparelhada, o 1-MSL melhorou em 3,4 repetições. O LCA-DL médio, a pontuação média no EQ-5D (7,1 para 6,6) e o EQ-VAS evoluíram favorável e significativamente.Conclusão: Dois meses após a infeção por SARS-CoV-2, os sintomas persistentes foram frequentes em doentes referenciados para Medicina Física e de Reabilitação. Adicionalmente, a infeção por infeção por SARS-CoV-2, bem como a persistência de sintomas, tiveram impacto negativo na condição física e funcionalidade nas atividades da vida diária e qualidade de vida. Com um plano de exercícios domiciliários implementado, observou-se uma melhoria estatisticamente significativa. O seguimento em Medicina Física e de Reabilitação dos doentes com sintomatologia persistente poderá ser vantajoso.",
+        "keywords": "Atividades da Vida Diária, Medicina Física e de Reabilitação, Portugal, Qualidade de Vida, Síndrome Pós COVID-19 Aguda",
+        "authors": [
+            {
+                "name": "Joana Romano",
+                "affiliation": "Serviço de Medicina Física e de Reabilitação. Hospital de Pedro Hispano. Unidade Local de Saúde de Matosinhos. Matosinhos.",
+                "orcid": "https://orcid.org/0000-0001-5326-2950"
+            },
+            {
+                "name": "Pedro Ribeiro",
+                "affiliation": "Serviço de Medicina Física e de Reabilitação. Hospital de Pedro Hispano. Unidade Local de Saúde de Matosinhos. Matosinhos."
+            },
+            {
+                "name": "Joana Alberto",
+                "affiliation": "Serviço de Medicina Física e de Reabilitação. Hospital de Pedro Hispano. Unidade Local de Saúde de Matosinhos. Matosinhos."
+            },
+            {
+                "name": "Paula Almeida",
+                "affiliation": "Serviço de Medicina Física e de Reabilitação. Hospital de Pedro Hispano. Unidade Local de Saúde de Matosinhos. Matosinhos."
+            },
+            {
+                "name": "Duarte Dantas",
+                "affiliation": "Serviço de Medicina Física e de Reabilitação. Hospital de Pedro Hispano. Unidade Local de Saúde de Matosinhos. Matosinhos."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.19382",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/19382/15189",
+        "publish_date": "2023-07-18",
+        "title": "Um Estudo Prospetivo de Doentes com Sintomas Persistentes após Infeção por SARS-CoV-2 Referenciados à Medicina Física e Reabilitação",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/19382"
+    },
+    {
+        "abstract": "Resumo Introdução: Os dados referentes ao efeito da COVID-19 longa na qualidade de vida relacionada com a saúde (QV-RS) são escassos. O objetivo deste estudo foi descrever prospectivamente a prevalência e os fatores de risco associados à COVID-19 longa após a alta hospitalar e avaliar o seu impacto na QV-RS.Métodos: Estudo longitudinal unicêntrico incluindo todos os doentes com COVID-19 com alta hospitalar entre dezembro de 2020 e fevereiro de 2021. Os doentes foram contactados telefonicamente aos três, seis e nove meses. Os dados foram colhidos da seguinte forma: 1) autorrelato dos sintomas associados à COVID-19 longa; 2) avaliação da QV-RS através do questionário de três níveis EuroQoL-5D (EQ-5D-3L). Excluímos grávidas, doentes dementes, acamados e não-falantes de português.Resultados: Cento e cinquenta e dois, 117 e 110 doentes foram avaliados aos três, seis e nove meses (idade mediana: 61 anos; homens: 56,6%). A COVID-19 longa (≥ 1 sintoma) estava presente em 66,5%, 62,4% e 53,6% dos doentes, e 65,8%, 69,2% e 55,4% descreveram compromisso da QV-RS (≥ 1 domínio) aos três, seis e nove meses, respetivamente. O sintoma persistente mais comum foi a fadiga. O domínio ansiedade/depressão foi o mais afetado nos três momentos, com pico aos seis meses (39%), seguido pelos domínios dor/desconforto e mobilidade. A COVID-19 longa associou-se ao compromisso de todos os domínios da EQ-5D-3L, exceto ao do autocuidado. Nem a admissão nos cuidados intensivos nem a gravidade da doença se associou à COVID-19 longa nem ao compromisso de qualquer domínio da EQ-5D-3L. A COVID-19 longa permaneceu significativamente associado à diminuição da QV-RS aos três (OR 4,27, IC 95% 1,92 – 9,52, p < 0,001), seis (OR 3,46, IC 95% 1,40 – 8,57, p = 0,007) e nove meses (OR 4,13, IC 95% 1,62 – 10,55, p = 0,003) após ajuste para o sexo, idade, grau de autonomia e comorbilidades. Na análise longitudinal, o índice EQ-5D-3L estava diminuído em 0,14/visita (p < 0,001) nos doentes com COVID-19 longa aos três meses em comparação com os assintomáticos, e ambos os grupos mostraram uma variação não significativa do índice EQ-5D-3L durante os nove meses do estudo (Z = 0,91, p = 0,364).Conclusão: As sequelas clínicas associadas à COVID-19 longa podem persistir por pelo menos nove meses após a alta hospitalar e podem comprometer a QV-RS a longo prazo em mais da metade dos doentes, independentemente da gravidade da doença e das características clinicodemográficas.",
+        "keywords": "COVID-19, Portugal, Qualidade de Vida, Síndrome Pós-COVID-19",
+        "authors": [
+            {
+                "name": "Pedro Gaspar",
+                "affiliation": "* Co-first author. Internal Medicine Department 2. Hospital Santa Maria. Centro Hospitalar Universitário Lisboa Norte. Lisbon; Instituto de Semiótica Clínica. Faculdade de Medicina. Universidade de Lisboa. Lisbon; Instituto de Medicina Molecular João Lobo Antunes. Faculdade de Medicina. Universidade de Lisboa. Centro Académico de Medicina de Lisboa. Lisbon.",
+                "orcid": "https://orcid.org/0000-0002-6965-3435"
+            },
+            {
+                "name": "Mariana Dias",
+                "affiliation": "* Co-first author. Internal Medicine Department 2. Hospital Santa Maria. Centro Hospitalar Universitário Lisboa Norte. Lisbon."
+            },
+            {
+                "name": "Inês Parreira",
+                "affiliation": "Internal Medicine Department 2. Hospital Santa Maria. Centro Hospitalar Universitário Lisboa Norte. Lisbon."
+            },
+            {
+                "name": "Hélder Diogo Gonçalves",
+                "affiliation": "Internal Medicine Department 2. Hospital Santa Maria. Centro Hospitalar Universitário Lisboa Norte. Lisbon."
+            },
+            {
+                "name": "Federica Parlato",
+                "affiliation": "Internal Medicine Department 2. Hospital Santa Maria. Centro Hospitalar Universitário Lisboa Norte. Lisbon."
+            },
+            {
+                "name": "Valeria Maione",
+                "affiliation": "Pneumology Department. Hospital Santa Maria. Centro Hospitalar Universitário Lisboa Norte. Lisbon."
+            },
+            {
+                "name": "Henrique Atalaia Barbacena",
+                "affiliation": "Internal Medicine Department 2. Hospital Santa Maria. Centro Hospitalar Universitário Lisboa Norte. Lisbon."
+            },
+            {
+                "name": "Carolina Carreiro",
+                "affiliation": "Internal Medicine Department 2. Hospital Santa Maria. Centro Hospitalar Universitário Lisboa Norte. Lisbon."
+            },
+            {
+                "name": "Leila Duarte",
+                "affiliation": "Internal Medicine Department 2. Hospital Santa Maria. Centro Hospitalar Universitário Lisboa Norte. Lisbon; Clínica Universitária de Medicina 2. Faculdade de Medicina. Universidade de Lisboa. Lisbon."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.19047",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/19047/15049",
+        "publish_date": "2023-02-24",
+        "title": "Preditores da COVID-19 Longa e o seu Impacto na Qualidade de Vida: Análise Longitudinal aos 3, 6 e 9 Meses após a Alta de um Centro Português",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/19047"
+    },
+    {
+        "abstract": "Resumo Introdução: O uso de máscara em público foi uma das várias intervenções não farmacêuticas adotadas para mitigar a pandemia de COVID-19 em Portugal. Pretendeu-se com este estudo avaliar o impacto do levantamento da obrigatoriedade do uso de máscara, a 22 de abril de 2022, na incidência e mortalidade por COVID-19, em Portugal Continental e nos Açores. Como objetivo secundário, pretendeu-se avaliar a evolução de casos de COVID-19 numa região sem obrigatoriedade de uso de máscara (Região Autónoma dos Açores) e numa região com obrigatoriedade de uso de máscara (Região Autónoma da Madeira).Métodos: O número de casos de COVID-19 confirmados laboratorialmente e de mortes específicas por COVID-19 foram utilizados para realizar uma análise de séries temporais interrompidas, de modo a estimar mudanças na incidência diária e óbitos, durante um período com obrigatoriedade de uso de máscara (28 de março a 21 de abril de 2022) e durante um período após o fim da obrigatoriedade de uso de máscara (22 de abril a 15 de maio de 2022), em Portugal Continental e nos Açores. Numa segunda fase, para cada região autónoma, ajustou-se um modelo de regressão binomial negativa, tendo como variável de interesse os casos diários de COVID-19 e como variável explicativa a frequência relativa da linhagem Omicron BA.5.Resultados: Foi observada uma alteração significativa nas tendências relativas à taxa de incidência e mortes por COVID-19; foi observada uma tendência crescente quer para a incidência, quer para as mortes por COVID-19 no período pós-obrigatoriedade de uso de máscara [5,3% por dia; razão da taxa de incidência (IRR): 1,053; intervalo de confiança (IC) a 95%: 1,029 - 1,078] e [3,2% por dia; razão da taxa de mortalidade (MRR): 1,032; IC 95%: 1,003 - 1,062], respetivamente. Para cada aumento de 1% na linhagem BA.5 da variante Omicron estimou-se um aumento de 1,5% por dia (IRR: 1,015; IC 95%: 1,006 - 1,024) na taxa de incidência de COVID-19 na região autónoma dos Açores, enquanto que para a região autónoma da Madeira se observou um aumento de 0,05% nos casos de COVID-19 diários (IRR: 1,005; IC 95%: 1,000 - 1,010).Conclusão: O fim da obrigatoriedade do uso de máscara em Portugal esteve associado a um aumento na incidência e mortes por COVID-19, destacando-se assim o efeito positivo desta medida de saúde pública na prevenção da transmissão de vírus respiratórios e na redução da mortalidade.",
+        "keywords": "COVID-19, Máscaras, Pandemia, Portugal, SARS-CoV-2",
+        "authors": [
+            {
+                "name": "Ana Rita Torres",
+                "affiliation": "Department of Epidemiology. National Health Institute Doutor Ricardo Jorge. Lisbon.",
+                "orcid": "https://orcid.org/0000-0003-0486-647X"
+            },
+            {
+                "name": "Susana Silva",
+                "affiliation": "Department of Epidemiology. National Health Institute Doutor Ricardo Jorge. Lisbon."
+            },
+            {
+                "name": "Irina Kislaya",
+                "affiliation": "Department of Epidemiology. National Health Institute Doutor Ricardo Jorge. Lisbon; Public Health Research Center. NOVA National School of Public Health. Lisbon; Comprehensive Health Research Center. Lisbon."
+            },
+            {
+                "name": "Baltazar Nunes",
+                "affiliation": "Department of Epidemiology. National Health Institute Doutor Ricardo Jorge. Lisbon; Public Health Research Center. NOVA National School of Public Health. Lisbon; Comprehensive Health Research Center. Lisbon."
+            },
+            {
+                "name": "Marta Barreto",
+                "affiliation": "Department of Epidemiology. National Health Institute Doutor Ricardo Jorge. Lisbon."
+            },
+            {
+                "name": "Ausenda Machado",
+                "affiliation": "Department of Epidemiology. National Health Institute Doutor Ricardo Jorge. Lisbon; Public Health Research Center. NOVA National School of Public Health. Lisbon; Comprehensive Health Research Center. Lisbon."
+            },
+            {
+                "name": "Ana Paula Torres",
+                "affiliation": "Department of Epidemiology. National Health Institute Doutor Ricardo Jorge. Lisbon."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.18974",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/18974/15138",
+        "publish_date": "2023-05-22",
+        "title": "Impacto do Fim da Obrigatoriedade do Uso de Máscara em Portugal na Incidência e Mortalidade de COVID-19: Um Estudo Ecológico",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/18974"
+    },
+    {
+        "abstract": "Resumo O adenocarcinoma ductal é atualmente a sexta causa de morte oncológica a nível mundial, e a quarta na Europa, com um aumento contínuo da letalidade anual em Portugal nas duas últimas décadas. A ressecção cirúrgica em bloco do tumor com margens microscopicamente negativas e com uma linfadenectomia adequada é a única possibilidade de sobrevida a longo prazo. Como o adenocarcinoma ductal é uma doença sistémica tem uma alta taxa de recidiva, mesmo depois de uma ressecção curativa, tornando a terapêutica sistémica o centro da sua abordagem, baseada sobretudo em quimioterapia. As estratégias neoadjuvantes para a doença não metastizada demonstraram uma melhoria significativa na sobrevida global em comparação com a cirurgia direta, nomeadamente em doença tangencialmente ressecável. Além disso, estas estratégias possibilitaram um re-estadiamento inferior em várias situações, permitindo ressecções R0. Sob essas novas estratégias oncológicas, foram introduzidas várias modalidades cirúrgicas recentes, nomeadamente ressecções vasculares mais agressivas e mesmo ressecções tumorais na doença oligometastática. Esta revisão aborda o estado da arte das intervenções cirúrgicas e oncológicas no adenocarcinoma ductal pancreático e destaca os avanços recentes na área visando alcançar maiores taxas de sobrevida.",
+        "keywords": "Carcinoma Ductal Pancreático/cirurgia, Carcinoma Ductal Pancreático /tratamento, Carcinoma Ductal Pancreático/tratamento farmacológico, Neoplasias Pancreáticas/cirurgia, Neoplasias Pancreáticas/tratamento, Neoplasias Pancreáticas/tratamento farmacológico",
+        "authors": [
+            {
+                "name": "Jorge Paulino",
+                "affiliation": "General Surgery Department. Hospital da Luz. Lisboa.",
+                "orcid": "https://orcid.org/0000-0002-8491-2802"
+            },
+            {
+                "name": "Hélder Mansinho",
+                "affiliation": "Oncology Department. Hospital Garcia de Orta. Almada."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.19957",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/19957/15234",
+        "publish_date": "2023-10-02",
+        "title": "Desenvolvimentos Recentes no Tratamento do Cancro do Pâncreas",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/19957"
+    },
+    {
+        "abstract": "Resumo Um doente do sexo masculino foi vítima de uma queimadura ocular com cal aos 43 anos, da qual resultou opacificação corneana bilateral e acuidade visual de perceção luminosa à direita e conta-dedos à esquerda. Foram feitas múltiplas tentativas para restaurar a visão, incluindo queratoplastias penetrantes e queratoprótese de Boston. Aos 73 anos, uma das abordagens cirúrgicas ao olho esquerdo do doente incluiu cauterização dos neovasos e remoção do pannus vascular, peritomia e excisão parcial da cápsula de Tenon. Seguidamente fez-se queratoplastia penetrante e injeção intraestromal de anti-VEGF (vascular endothelial growth factor), e a superfície ocular foi recoberta com membrana amniótica. No pós-operatório, o enxerto do olho esquerdo apresentava-se transparente, sem sinais de inflamação e a visão melhorou para 20/50, mantendo-se estável ao longo dos dois anos seguintes. Com este caso clínico pretendemos demostrar alguns procedimentos perioperatórios adjuvantes à queratoplastia penetrante que foram eficazes para aumentar a sobrevida do enxerto corneano, num centro terciário sem capacidade para fazer cultura e transplantação de células estaminais límbicas.",
+        "keywords": "Células-Tronco, Doenças da Córnea/cirurgia, Epitélio Corneano, Implantação de Prótese, Limbus Corneae, Queimaduras Oculares/complicações",
+        "authors": [
+            {
+                "name": "Rosa Lomelino Pinheiro",
+                "affiliation": "Centro de Responsabilidade Integrado de Oftalmologia. Centro Hospitalar e Universitário de Coimbra. Coimbra.",
+                "orcid": "https://orcid.org/0000-0002-8621-5816"
+            },
+            {
+                "name": "João Gil",
+                "affiliation": "Centro de Responsabilidade Integrado de Oftalmologia. Centro Hospitalar e Universitário de Coimbra. Coimbra; Faculdade de Medicina. Universidade de Coimbra. Coimbra.",
+                "orcid": "https://orcid.org/0000-0001-9032-1008"
+            },
+            {
+                "name": "Maria João Quadrado",
+                "affiliation": "Centro de Responsabilidade Integrado de Oftalmologia. Centro Hospitalar e Universitário de Coimbra. Coimbra; Faculdade de Medicina. Universidade de Coimbra. Coimbra.",
+                "orcid": "https://orcid.org/0000-0002-5881-9161"
+            },
+            {
+                "name": "Joaquim Murta",
+                "affiliation": "Centro de Responsabilidade Integrado de Oftalmologia. Centro Hospitalar e Universitário de Coimbra. Coimbra; Faculdade de Medicina. Universidade de Coimbra. Coimbra.",
+                "orcid": "https://orcid.org/0000-0001-8926-5176"
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.18960",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/18960/15053",
+        "publish_date": "2023-02-07",
+        "title": "Abordagem Cirúrgica da Deficiência de Células Límbicas Bilateral",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/18960"
+    },
+    {
+        "abstract": "Resumo Adolescente, 17 anos, sexo masculino, foi levado ao serviço de urgência por hipovisão esquerda e ‘moscas volantes’ de aparecimento nesse dia. Referiu contacto com tuberculose pulmonar quinze anos antes (mãe como caso índex); realizou profilaxia com isoniazida durante quatro meses. O exame oftalmológico apresentava uveíte posterior e intermédia à esquerda. O estudo analítico não apresentava alterações. A IgG para herpes simplex 1 veio positiva e as restantes serologias incluindo vírus varicela-zoster vieram negativas. A radiografia tórax não apresentava alterações. Após duas semanas, foi observada uma membrana epirretiniana com risco de descolamento tracional da retina. A prova de Mantoux apresentava enduração de 15 mm e o teste IGRA veio positivo. Foram colhidas secreções respiratórias e humor vítreo para cultura. Foi iniciada terapêutica quádrupla e prednisolona. Dez dias depois verificou-se um descolamento hialóide posterior com hematoma vítreo subjacente. Foi então submetido a vitrectomia posterior e endolaser periférico sem intercorrências. Um mês depois foram conhecidos os resultados dos exames culturais com crescimento de Mycobacterium tuberculosis. Iniciou desmame progressivo da corticoterapia. Realizou terapêutica antibacilar durante seis meses. Verificou-se resolução completa com normalização da acuidade visual.",
+        "keywords": "Adolescente, Tuberculose Ocular/diagnóstico, Uveíte/diagnóstico",
+        "authors": [
+            {
+                "name": "Paula Manuel Vieira",
+                "affiliation": "Serviço Pediatria. Centro Materno-Infantil do Norte Albino Aroso. Centro Hospitalar Universitário do Porto. Porto.",
+                "orcid": "https://orcid.org/0000-0002-9802-4558"
+            },
+            {
+                "name": "Carla Zilhão",
+                "affiliation": "Serviço Pediatria. Centro Materno-Infantil do Norte Albino Aroso. Centro Hospitalar Universitário do Porto. Porto.",
+                "orcid": "https://orcid.org/0000-0002-9915-4557"
+            },
+            {
+                "name": "Vasco Miranda",
+                "affiliation": "Serviço de Oftalmologia. Centro Hospitalar Universitário do Porto. Porto.",
+                "orcid": "https://orcid.org/0000-0002-6066-6918"
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.19245",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/19245/15114",
+        "publish_date": "2023-04-19",
+        "title": "Tuberculose Ocular em Pediatria: Relato de Caso",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/19245"
+    },
+    {
+        "abstract": "Resumo Introdução: A diabetes gestacional é uma condição que predispõe a complicações maternas durante a gravidez e ao recém-nascido. Este estudo visa analisar o impacto do índice de massa corporal e do ganho ponderal durante a gravidez na ocorrência de complicações obstétricas e neonatais das diabéticas gestacionais.Material e Métodos: Estudo retrospetivo de coorte que envolveu 13 467 grávidas com gestações únicas e diagnosticadas com diabetes gestacional, entre 2014 e 2018, em Portugal. A amostra foi distribuída de acordo com os critérios da Organização Mundial da Saúde para as categorias de índice de massa corporal (baixo peso, normal, excesso de peso e obesidade) e de acordo com as guidelines do Instituto de Medicina Americano para ganho ponderal gestacional (adequado, insuficiente ou excessivo). Foram usados modelos de regressão binomial e multinomial para determinar os fatores de risco de complicações na diabetes gestacional. A análise estatística foi realizada a partir do SPSS versão 25.Resultados: Excesso ponderal e obesidade pré-gestacionais aumentaram o risco de morbilidade maternal (aOR: 1,31 e aOR: 2,42), hipertensão gestacional (aOR: 1,56 e aOR: 2,79) e realização de cesarianas (aOR: 1,22 e aOR: 1,77), contudo diminuíram o risco para recém-nascidos pequenos para idade gestacional [aOR: 0,73; aOR: 0,64 (curvas Fenton) e aOR: 0,69; aOR: 0,66 (curvas portuguesas)]. A obesidade esteve associada a um risco aumentado de eventos de pré-eclampsia (aOR: 3,05), síndrome de dificuldade respiratória neonatal (aOR: 1,69), internamentos em cuidados intensivos neonatais (aOR: 1,54), macrossomia (aOR: 2,18) e grandes para idade gestacional [aOR: 2,03 (Fenton) e aOR: 1,87 (portuguesas)] e foi associada a menor risco de recém-nascidos com baixo peso à nascença (aOR: 0,62). O ganho ponderal insuficiente estava associado a um risco mais baixo de hipertensão gestacional (aOR: 0,69), pré-eclampsia (aOR: 0,44), cesarianas (aOR: 0,81) e grandes para idade gestacional (aOR: 0,74 [portuguesas]) e esteve associado a maior risco de baixo peso à nascença (aOR: 1,36) e pequeno para idade gestacional [aOR: 1,40 (Fenton)]. O ganho ponderal excessivo teve maior associação com hipertensão gestacional (aOR: 1,53), hidrâmnios (aOR: 2,05), macrossomia (aOR: 2,02) e grandes para idade gestacional [aOR: 1,94 (Fenton) e aOR: 1,92 (portuguesas)].Conclusão: Tanto o excesso de peso e obesidade pré-gestacional, como o ganho ponderal excessivo estiveram associados a um risco aumentado de determinadas complicações obstétricas e neonatais. É fundamental apresentar uma vigilância na preconceção apropriada e um acompanhamento apertado da gravidez de modo a reduzir os riscos associados e a predisposição destes recém-nascidos a patologias diversas.",
+        "keywords": "Complicações na Gravidez, Diabetes Gestacional, Ganho de Peso na Gestação, Índice de Massa Corporal, Período Pós-Parto, Recém-Nascido",
+        "authors": [
+            {
+                "name": "Juliana Chen Xu",
+                "affiliation": "Internal Medicine Department. Centro Hospitalar de Póvoa de Varzim/Vila do Conde. Póvoa de Varzim.",
+                "orcid": "https://orcid.org/0000-0003-3861-6700"
+            },
+            {
+                "name": "Ângela Coelho",
+                "affiliation": "Internal Medicine Department. Centro Hospitalar de Póvoa de Varzim/Vila do Conde. Póvoa de Varzim."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.15896",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/15896/6625",
+        "publish_date": "2022-04-26",
+        "title": "Índice de Massa Corporal e Ganho Ponderal Associado a Complicações Obstétricas e Neonatais na Diabetes Gestacional",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/15896"
+    },
+    {
+        "abstract": "Resumo Introdução: Os encargos crescentes com a diabetes representam um desafio para os sistemas de saúde e economia a nível mundial. Apesar de terapias modernas para a diabetes disponíveis, a maioria das pessoas continua privada de cuidados e bem-estar adequados. O objetivo primário deste estudo foi avaliar e explorar os fatores relevantes para o controlo ativo e eficaz da diabetes para as pessoas com diabetes, familiares e profissionais de saúde em Portugal, aplicando o protocolo do estudo multinacional “Diabetes, Attitudes, Wishes and Needs (DAWN2)”.Material e Métodos: Participaram no estudo 767 adultos (417 pessoas com diabetes, 123 familiares e 227 profissionais de saúde). Foram avaliados a qualidade de vida associada à saúde, autogestão, atitudes/crenças, apoio social e prioridades em áreas de melhoria no tratamento da diabetes.Resultados: A diabetes tem um impacto negativo na saúde física e no bem-estar emocional das pessoas em Portugal, sendo também uma carga psicológica para os seus familiares. O diagnóstico e tratamento precoces da diabetes foram indicados como a principal área de melhoria. Profissionais de saúde indicaram a necessidade de educação para a autogestão da diabetes.Conclusão: Pela primeira vez em Portugal usámos o protocolo DAWN2 para ir ao encontro dos desejos, necessidades e atitudes dos doentes Portugueses com diabetes, os seus familiares e profissionais de saúde relativamente à doença.",
+        "keywords": "Apoio Social, Autogestão, Diabetes Mellitus, Portugal, Qualidade de Vida",
+        "authors": [
+            {
+                "name": "Dulce Nascimento do Ó",
+                "affiliation": "APDP – Diabetes Portugal. Lisbon.",
+                "orcid": "https://orcid.org/0000-0002-4688-8522"
+            },
+            {
+                "name": "Lurdes Serrabulho",
+                "affiliation": "APDP – Diabetes Portugal. Lisbon.",
+                "orcid": "https://orcid.org/0000-0002-0699-8807"
+            },
+            {
+                "name": "Rogério T. Ribeiro",
+                "affiliation": "APDP – Diabetes Portugal. Lisbon. CEDOC - Centro de Estudos de Doenças Crónicas. NOVA Medical School. Lisbon. Department of Medical Sciences. University of Aveiro. Aveiro.",
+                "orcid": "https://orcid.org/0000-0001-8840-7208"
+            },
+            {
+                "name": "Sónia Silva",
+                "affiliation": "APDP – Diabetes Portugal. Lisbon."
+            },
+            {
+                "name": "Ana Covinhas",
+                "affiliation": "APDP – Diabetes Portugal. Lisbon."
+            },
+            {
+                "name": "Maria João Afonso",
+                "affiliation": "APDP – Diabetes Portugal. Lisbon."
+            },
+            {
+                "name": "José Manuel Boavida",
+                "affiliation": "APDP – Diabetes Portugal. Lisbon.",
+                "orcid": "https://orcid.org/0000-0003-0598-2819"
+            },
+            {
+                "name": "João Filipe Raposo",
+                "affiliation": "CEDOC - Centro de Estudos de Doenças Crónicas. NOVA Medical School. Lisbon.",
+                "orcid": "https://orcid.org/0000-0003-2589-7208"
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.16817",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/16817/6572",
+        "publish_date": "2022-03-03",
+        "title": "Relações Interpessoais na Diabetes: Perspetiva e Experiência de Pessoas com Diabetes, Cuidadores Informais, e Profissionais de Saúde em Portugal",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/16817"
+    },
+    {
+        "abstract": "Resumo Introdução: O teste de avaliação da doença pulmonar obstrutiva crónica (CAT) é um questionário autoaplicável que mede a qualidade de vida relacionada com a saúde. As normas internacionais GOLD propõem o uso deste questionário, uma vez que traduz o impacto da doença pulmonar obstrutiva crónica (DPOC) no bem-estar. Este questionário tem sido amplamente utilizado na prática clínica diária em Portugal, mas carece de validação para o português europeu. Assim, o objetivo deste estudo foi realizar a adaptação cultural e validação do questionário CAT para que a sua versão mais adequada possa ser disponibilizada a investigadores e clínicos portugueses.Material e Métodos: Foi realizado um estudo transversal descritivo com 65 doentes com DPOC com 40 anos ou mais. O CAT e a versão em português previamente validada do questionário clínico para DPOC foram aplicados entre janeiro de 2019 e junho de 2019. A concordância entre os dois questionários foi determinada com o teste de concordância de Kappa com intervalo de confiança de 95%. A correlação de Spearman foi usada para avaliar a presença de uma correlação entre os dois scores.Resultados: Os 65 doentes incluídos no estudo foram observados em consulta de pneumologia hospitalar [idade 68 ± 7 anos; volume expiratório máximo no 1º segundo (FEV1) 49,86% ± 16,5% do previsto]. O CAT correlacionou-se significativamente com todos os domínios e com a pontuação geral do CCQ (0,47 < r < 0,75; p < 0,001). O coeficiente de correlação interclasse de doentes bilíngues foi de 0,922; R de Pearson = 0,928; p < 0,001. O coeficiente alfa de Cronbach foi de 0,96 (p < 0,001).Conclusão: A versão em português europeu do CAT é um instrumento válido para medir a qualidade de vida relacionada com a saúde em doentes com DPOC. A aplicação de questionários validados é fundamental, visto que gera evidência confiável e reprodutível para uso em ensaios clínicos ou na prática clínica.",
+        "keywords": "Doença Pulmonar Obstrutiva Crónica, Inquéritos e Questionários, Portugal, Reprodutibilidade dos Testes, Tradução",
+        "authors": [
+            {
+                "name": "Margarida Pimenta Valério",
+                "affiliation": "Pulmonology Department. Centro Hospitalar e Universitário de Coimbra. Coimbra."
+            },
+            {
+                "name": "Soraia Ribeiro",
+                "affiliation": "Unidade de Saúde Familiar Condeixa. Administração Regional de Saúde Centro. Coimbra."
+            },
+            {
+                "name": "Carlos Seiça Cardoso",
+                "affiliation": "Unidade de Saúde Familiar Condeixa. Administração Regional de Saúde Centro. Coimbra."
+            },
+            {
+                "name": "João Machado",
+                "affiliation": "Pulmonology Department. Centro Hospitalar e Universitário de Coimbra. Coimbra."
+            },
+            {
+                "name": "José Costa",
+                "affiliation": "Pulmonology Department. Centro Hospitalar e Universitário de Coimbra. Coimbra."
+            },
+            {
+                "name": "Cidália Rodrigues",
+                "affiliation": "Pulmonology Department. Centro Hospitalar e Universitário de Coimbra. Coimbra."
+            },
+            {
+                "name": "Alexandre Rebelo-Marques",
+                "affiliation": "Faculty of Medicine. University of Coimbra. Coimbra. Coimbra Institute for Clinical and Biomedical Research (iCBR). Faculty of Medicine. University of Coimbra. Coimbra. Clinical Academic Center of Coimbra (CACC). Coimbra"
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.15343",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/15343/6640",
+        "publish_date": "2022-05-20",
+        "title": "Validação e Adaptação Cultural para o Português Europeu do Teste de Avaliação da Doença Pulmonar Obstrutiva Crónica",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/15343"
+    },
+    {
+        "abstract": "Resumo Introdução: Com os avanços observados a nível anestésico e cirúrgico, a cirurgia em regime de ambulatório tem cada vez mais expressão. Este regime, apesar das várias vantagens para os doentes, acarreta também vários receios. Os objetivos deste estudo foram avaliar o nível de conhecimento e a perspetiva dos doentes sobre a cirurgia em ambulatório.Material e Métodos: Estudo prospetivo decorrido durante dois meses em doentes com consulta pré-anestésica num Centro Hospitalar Universitário. Foi inquirida informação demográfica, nível educacional e existência de cirurgia prévia em regime de ambulatório. Foram avaliados o nível de conhecimento dos doentes, a satisfação, as vantagens e receios relativos à cirurgia em regime de ambulatório. A análise foi feita com SPSS (v 27.0) e p < 0,05 foi considerado como estatisticamente significativo.Resultados: Foram incluídos 251 doentes. Destes, 128 (51%) doentes demostraram ter conhecimento sobre a cirurgia de ambulatório. As principais vantagens percebidas pelos doentes foram ter uma recuperação mais sossegada (44,7%), evitar estar rodeado de outros doentes (43,1%) e evitar infeção (37,2%). Os principais receios mostrados pelos doentes foram o mau controlo da dor (20,7%) e de náuseas/vómitos (10%) e ter outros problemas de saúde (13,1%).Conclusão: Os doentes poderão beneficiar de ser mais informados sobre o regime cirúrgico em ambulatório de forma a diminuir os seus receios e aumentar a sua satisfação. Investir na informação do doente poderá aumentar a aceitação do regime de ambulatório.",
+        "keywords": "Anestesia, Procedimentos Cirúrgicos Ambulatórios, Satisfação do Doente",
+        "authors": [
+            {
+                "name": "Manuel Silva",
+                "affiliation": "Departamento de Anestesiologia. Instituto Português de Oncologia do Porto FG, EPE (IPO-Porto). Porto.",
+                "orcid": "https://orcid.org/0000-0002-0850-8429"
+            },
+            {
+                "name": "João Silva",
+                "affiliation": "Faculdade de Medicina. Universidade do Porto. Porto."
+            },
+            {
+                "name": "João Novo",
+                "affiliation": "Departamento de Anestesiologia. Centro Hospitalar Universitário de São João. Porto."
+            },
+            {
+                "name": "Flávia Oliveira",
+                "affiliation": "Departamento de Anestesiologia. Centro Hospitalar Universitário de São João. Porto."
+            },
+            {
+                "name": "Emília Carneiro",
+                "affiliation": "Departamento de Anestesiologia. Centro Hospitalar Universitário de São João. Porto."
+            },
+            {
+                "name": "Joana Mourão",
+                "affiliation": "Faculdade de Medicina. Universidade do Porto. Porto. Departamento de Anestesiologia. Centro Hospitalar Universitário de São João. Porto."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.16494",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/16494/6583",
+        "publish_date": "2022-03-23",
+        "title": "A Perspetiva do Doente Sobre a Cirurgia em Regime de Ambulatório: Um Estudo Observacional",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/16494"
+    },
+    {
+        "abstract": "Resumo Introdução: A anemia e ferropenia estão associadas a um aumento da mortalidade e a piores resultados no período pós-operatório. Consensualizar as suas definições permitirá otimizar a sua gestão. O patient blood management engloba essa gestão, com relevo acrescido em situações de contingência, focado nos cuidados centrados no doente e na melhoria da segurança e dos outcomes. As barreiras à implementação de princípios patient blood management prendem-se, entre outras, com falta de padronização. Pretende--se estabelecer um consenso sobre estes diagnósticos e implementação de patient blood management na prática clínica em Portugal.Material e Métodos: Foram reunidos oito especialistas em Imuno-hemoterapia, Hematologia Clínica, Anestesiologia, Medicina Interna e Obstetrícia/ Ginecologia. Foi realizado um focus group, onde foram definidas 33 afirmações. Além disso, foi realizado um painel Delphi, com especialistas das áreas mencionadas acima, assim como de Cirurgia Geral, Urologia e Ortopedia.Resultados: As duas rondas do painel Delphi tiveram, respetivamente, 70 e 46 respondedores. Estes foram consensuais em apenas duas afirmações, na existência de consulta pré-operatória de patient blood management para os candidatos a cirurgias eletivas em que se antecipa o uso de hemoderivados e, na importância da correção da anemia e ferropenia pós-operatórias. Das 31 afirmações restantes, 27 atingiram alta concordância ou discordância pelos respondentes.Conclusão: Foi alcançado consenso em apenas duas (6%) das 33 afirmações. Houve consenso sobre a relevância de estabelecer o patient blood management como standard of care e a valorização das intervenções de patient blood management pré e pós-operatórias. No entanto, os resultados indiciam falta de consciencialização sobre os princípios de patient blood management – que poderiam levar a melhores resultados pós-operatórios, com redução do tempo de hospitalização e dos custos e maior disponibilidade de camas. Iniciativas de formação e literacia poderiam ajudar a uma melhor implementação dos princípios de patient blood management nos hospitais portugueses.",
+        "keywords": "Anemia, Anemia por Deficiência de Ferro, Biomarcadores/ sangue, Consenso, Cuidados Perioperatórios, Deficiências de Ferro, Transfusão de Sangue",
+        "authors": [
+            {
+                "name": "António Robalo Nunes",
+                "affiliation": "Hospital das Forças Armadas. Lisboa. Anemia Working Group Portugal. Lisboa."
+            },
+            {
+                "name": "Dialina Brilhante",
+                "affiliation": "Anemia Working Group Portugal. Lisboa. Instituto Português de Oncologia de Lisboa Francisco Gentil. Lisboa."
+            },
+            {
+                "name": "Ana Macedo",
+                "affiliation": "Keypoint, Consultoria Científica. Lisboa. Faculdade de Medicina e Ciências Biomédicas. Universidade do Algarve. Faro."
+            },
+            {
+                "name": "Vera Beato",
+                "affiliation": "Hospital das Forças Armadas. Lisboa."
+            },
+            {
+                "name": "Diana Gomes",
+                "affiliation": "Centro Hospitalar de Vila Nova de Gaia/Espinho. Gaia."
+            },
+            {
+                "name": "José Gonçalves-Aguiar",
+                "affiliation": "Hospital dos Lusíadas. Porto."
+            },
+            {
+                "name": "Fátima Lima",
+                "affiliation": "Centro Hospitalar de Vila Nova de Gaia/Espinho. Gaia."
+            },
+            {
+                "name": "João Mairos",
+                "affiliation": "Anemia Working Group Portugal. Lisboa. Direção de Saúde da Força Aérea. Lisboa."
+            },
+            {
+                "name": "Teresa Melo-Lencastre",
+                "affiliation": "Centro Hospitalar de Vila Nova de Gaia/Espinho. Gaia."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.17518",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/17518/6643",
+        "publish_date": "2022-05-27",
+        "title": "Melhorar a Consciencialização sobre Patient Blood Management: Um Repto de Ação a Partir de um Painel de Delphi",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/17518"
+    },
+    {
+        "abstract": "Resumo O envelhecimento populacional tem-se traduzido no aumento de prevalência de doenças crónicas como a doença renal crónica. A anemia é uma das complicações mais frequentes da doença renal crónica, com impacto não só na qualidade de vida como no prognóstico do doente e nos custos associados. O conhecimento nesta área terapêutica tem aumentado de forma significativa: desde o aparecimento da eritropoietina recombinante em 1989, passando pelo uso de doses crescentes de ferro parentérico e, mais recentemente, a novas moléculas como os inibidores do hypoxia-inducible factor. Os autores pretendem rever, de uma forma pragmática, o estado da arte da anemia associada à doença renal crónica, desde a epidemiologia, à fisiopatologia, ao diagnóstico e ao tratamento.",
+        "keywords": "Anemia/diagnóstico, Anemia/tratamento farmacológico, Anemia Ferropénica, Doença Renal Crónica/complicações, Inibidores de Prolil-Hidrolase/uso terapêutico",
+        "authors": [
+            {
+                "name": "Ana Farinha",
+                "affiliation": "Anemia Working Group Portugal. Lisboa. Serviço de Nefrologia. Centro Hospitalar de Setúbal. Setúbal.",
+                "orcid": "https://orcid.org/0000-0002-5402-7626"
+            },
+            {
+                "name": "António Robalo Nunes",
+                "affiliation": "Anemia Working Group Portugal. Lisboa. Serviço de Imuno-hemoterapia. Hospital das Forças Armadas. Lisboa."
+            },
+            {
+                "name": "João Mairos",
+                "affiliation": "Anemia Working Group Portugal. Lisboa. Serviço de Ginecologia-Obstetrícia. Hospital da Força Aérea Portuguesa. Lisboa."
+            },
+            {
+                "name": "Cândida Fonseca",
+                "affiliation": "Anemia Working Group Portugal. Lisboa. Clínica de Insuficiência Cardíaca. Serviço de Medicina III. Hospital de S. Francisco Xavier. Centro Hospitalar de Lisboa Ocidental. Lisboa. NOVA Medical School. Faculdade de Ciências Médicas. Universidade Nova de Lisboa. Lisboa."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.17284",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/17284/6697",
+        "publish_date": "2022-07-15",
+        "title": "Anemia da Doença Renal Crónica: O Estado da Arte",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/17284"
+    },
+    {
+        "abstract": "Resumo O tumor miofibroblástico inflamatório é uma entidade rara com comportamento biológico indeterminado e reduzido potencial de recorrência e metastização. Apesar de poder surgir em vários órgãos, as vias biliares constituem uma localização incomum. Descreve-se o caso de um homem de 75 anos, assintomático, com elevação da gama glutamil transferase [1575 U/L (12 - 64 U/L)] e fosfatase alcalina [271 U/L (40 - 150 U/L)], que realizou uma tomografia computorizada evidenciando uma lesão hipervascular com 17 mm na confluência dos ductos biliares, com ectasia das vias biliares intra-hepáticas à direita, e atrofia do lobo hepático correspondente. O caso foi abordado inicialmente como um tumor de Klatskin e realizada hepatectomia direita. A histologia relevou uma proliferação de células fusiformes com infiltrado inflamatório de linfócitos, plasmócitos e estroma rico em colágeno, compatível com tumor miofibroblástico inflamatório. Após nove meses, o doente permanece assintomático, com testes de função hepática com valores normais e sem sinais imagiológicos de recidiva.",
+        "keywords": "Ducto Hepático Comum, Hepatectomia, Neoplasias dos Ductos biliares, Testes de Função Hepática, Tumor de Klatskin",
+        "authors": [
+            {
+                "name": "Matilde Almeida e Sousa",
+                "affiliation": "Serviço de Radiologia. Centro Hospitalar Universitário Lisboa Central. Lisboa. Departamento de Anatomia e Imagiologia Clínicas. NOVA Medical School. Lisboa."
+            },
+            {
+                "name": "Ana Carvalho",
+                "affiliation": "Serviço de Anatomia Patológica. Hospital Curry Cabral. Centro Hospitalar Universitário Lisboa Central. Lisboa."
+            },
+            {
+                "name": "Raquel Mega",
+                "affiliation": "Unidade Hepato-bilio-pancreática. Hospital Curry Cabral. Centro Hospitalar Universitário Lisboa Central. Lisboa."
+            },
+            {
+                "name": "Tiago Bilhim",
+                "affiliation": "Serviço de Radiologia. Centro Hospitalar Universitário Lisboa Central. Lisboa. Departamento de Anatomia e Imagiologia Clínicas. NOVA Medical School. Lisboa. Unidade de Radiologia de Intervenção. Hospital Curry Cabral. Centro Hospitalar Universitário Lisboa Central. Lisboa."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.16976",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/16976/6546",
+        "publish_date": "2022-02-07",
+        "title": "Tumor Inflamatório Miofibroblástico da Via Biliar Principal",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/16976"
+    },
+    {
+        "abstract": "Resumo Apresenta-se o caso de um homem de 39 anos, ex-fumador, sem outros fatores de risco conhecidos. Foi encaminhado à consulta de Medicina Interna para estudo de trombofilia por tromboses venosas profundas de repetição. Foi realizado estudo etiológico, onde o doseamento da HbA1c foi incluído. O resultado foi de 14,6%. O doente não apresentava diagnóstico prévio de diabetes mellitus e negava sintomas compatíveis. A glicemia em jejum e o hemograma não revelaram alterações. O estudo por eletroforese das hemoglobinas revelou uma variante não classificada. Num centro de referência português foi identificada, por biologia molecular, uma mutação em heterozigotia no gene HBB associada a uma variante de hemoglobina - Hb South Florida (c.4G > A; p.Val2Met), sendo a primeira vez que é documentada em Portugal. Salienta-se a importância de, na presença de valores de HbA1C discrepantes da apresentação clínica, considerar a presença de variantes de hemoglobina.",
+        "keywords": "Diabetes Mellitus, Hemoglobina A Glicada, Hemoglobinas Anormais",
+        "authors": [
+            {
+                "name": "Marta Braga Martins",
+                "affiliation": "Serviço de Medicina Interna. Hospital de Braga. Braga.",
+                "orcid": "https://orcid.org/0000-0002-2862-9682"
+            },
+            {
+                "name": "Luís Dias",
+                "affiliation": "Serviço de Medicina Interna. Hospital de Braga. Braga.",
+                "orcid": "https://orcid.org/0000-0002-3159-8629"
+            },
+            {
+                "name": "Vânia Gomes",
+                "affiliation": "Serviço de Medicina Interna. Hospital de Braga. Braga.",
+                "orcid": "https://orcid.org/0000-0003-1961-7089"
+            },
+            {
+                "name": "Céu Rodrigues",
+                "affiliation": "Serviço de Medicina Interna. Hospital de Braga. Braga.",
+                "orcid": "https://orcid.org/0000-0001-7412-7416"
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.16052",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/16052/6619",
+        "publish_date": "2022-04-13",
+        "title": "O Primeiro Caso da Variante Hb South Florida em Portugal",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/16052"
+    },
+    {
+        "abstract": "Resumo Introdução: A deficiência de glicose-6-fosfato desidrogenase (G6PD) é o defeito enzimático mais comum no mundo, afetando mais de 500 milhões de pessoas. Em Portugal, a frequência populacional da deficiência de G6PD no sexo masculino foi estimada em cerca de 0,5%, e desde o ano 2000 têm vindo a ser descritas diversas variantes G6PD causadoras da deficiência. O principal objetivo deste estudo foi melhorar o conhecimento sobre a heterogeneidade molecular da deficiência de G6PD na população portuguesa.Material e Métodos: Análise retrospetiva do perfil mutacional de 138 indivíduos não-aparentados de naturalidade portuguesa (101 homens e 37 mulheres), sem ascendência subsaariana conhecida, diagnosticados com deficiência de G6PD entre 1994 e 2020 na Unidade de Hematologia Molecular do Centro Hospitalar e Universitário de Coimbra (CHUC). O estudo molecular foi feito por sequenciação direta de Sanger ou análise por PCR-RFLP.Resultados: Identificaram-se 21 mutações patogénicas diferentes. Destas, 20 são mutações missense, que levam à troca de aminoácido, e uma é uma deleção in-frame de 18 nucleótidos no exão 10. As três mutações mais frequentes pertencem ao haplótipo subsaariano G6PD c.376A>G, nomeadamente as variantes G6PD: A- (c.202G>A; p.68Val>Met) (58,6%), Betica (c.968T>C; p.323Leu>Pro) (12,1%) e Santamaria (c.542A>T; p.181Asp>Val) (4,3%).Conclusão: Existe uma elevada heterogeneidade molecular da deficiência de G6PD em Portugal.",
+        "keywords": "Deficiência em G6PD, Mutações G6PD, Portugal",
+        "authors": [
+            {
+                "name": "Licínio Manco",
+                "affiliation": "Centro de Investigação em Antropologia e Saúde. Universidade de Coimbra. Coimbra. Departamento de Ciências da Vida. Universidade de Coimbra. Coimbra."
+            },
+            {
+                "name": "Celeste Bento",
+                "affiliation": "Centro de Investigação em Antropologia e Saúde. Universidade de Coimbra. Coimbra. Serviço de Hematologia Clínica. Centro Hospitalar e Universitário de Coimbra. Coimbra."
+            },
+            {
+                "name": "Luís Relvas",
+                "affiliation": "Serviço de Hematologia Clínica. Centro Hospitalar e Universitário de Coimbra. Coimbra."
+            },
+            {
+                "name": "Tabita Maia",
+                "affiliation": "Serviço de Hematologia Clínica. Centro Hospitalar e Universitário de Coimbra. Coimbra."
+            },
+            {
+                "name": "Maria Letícia Ribeiro",
+                "affiliation": "Centro de Investigação em Antropologia e Saúde. Universidade de Coimbra. Coimbra."
+            }
+        ],
+        "doi": "https://doi.org/10.20344/amp.17584",
+        "pdf": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/17584/6759",
+        "publish_date": "2022-09-23",
+        "title": "Heterogeneidade Molecular da Deficiência em Glicose-6-Fosfato Desidrogenase (G6PD) na População Portuguesa",
+        "url": "https://www.actamedicaportuguesa.com/revista/index.php/amp/article/view/17584"
+    }
+]
